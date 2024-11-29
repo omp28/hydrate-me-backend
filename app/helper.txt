@@ -1,0 +1,5 @@
+INSERT INTO users (name, sensor_id) 
+VALUES ('Om Patel', 'SENSOR123');
+
+psql -h localhost -p 5432 -U myuser -d mydatabase
+

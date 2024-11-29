@@ -1,0 +1,15 @@
+python-dotenv
+fastapi
+sqlalchemy
+pydantic
+uvicorn
+psycopg2-binary
+paho-mqtt
+python-jose
+bcrypt
+pydantic[email]  # Installs Pydantic with email-validator support
+python-multipart
+loguru==0.7.0
+pydantic==1.10.2
+SQLAlchemy==1.4.46
+paho-mqtt==1.6.1

@@ -70,3 +70,64 @@
 1732913333: Client 123 closed its connection.
 1732913336: New connection from 192.168.65.1:16963 on port 1883.
 1732913336: New client connected from 192.168.65.1:16963 as 123 (p2, c1, k60).
+1732914365: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1732916166: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1732917967: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1732919086: Client 123 closed its connection.
+1732919768: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1732920643: New connection from 192.168.65.1:64665 on port 1883.
+1732920643: New client connected from 192.168.65.1:64665 as 123 (p2, c1, k60).
+1732920733: New connection from 192.168.65.1:20042 on port 1883.
+1732920733: Client esp32-2c542fa7dbcc already connected, closing old connection.
+1732920733: New client connected from 192.168.65.1:20042 as esp32-2c542fa7dbcc (p2, c1, k15).
+1732920961: Client 123 closed its connection.
+1732920993: Client esp32-2c542fa7dbcc has exceeded timeout, disconnecting.
+1732921018: New connection from 192.168.65.1:33596 on port 1883.
+1732921018: New client connected from 192.168.65.1:33596 as esp32-2c542fa7dbcc (p2, c1, k15).
+1732921060: New connection from 192.168.65.1:17202 on port 1883.
+1732921060: Client esp32-2c542fa7dbcc already connected, closing old connection.
+1732921060: New client connected from 192.168.65.1:17202 as esp32-2c542fa7dbcc (p2, c1, k15).
+1732921065: New connection from 192.168.65.1:20883 on port 1883.
+1732921065: Client esp32-2c542fa7dbcc already connected, closing old connection.
+1732921065: New client connected from 192.168.65.1:20883 as esp32-2c542fa7dbcc (p2, c1, k15).
+1732921569: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1732922172: New connection from 192.168.65.1:46238 on port 1883.
+1732922172: New client connected from 192.168.65.1:46238 as 123 (p2, c1, k60).
+1732923201: Client esp32-2c542fa7dbcc has exceeded timeout, disconnecting.
+1732923370: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1732923543: mosquitto version 2.0.20 terminating
+1732923543: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733547719: mosquitto version 2.0.20 starting
+1733547719: Config loaded from /mosquitto/config/mosquitto.conf.
+1733547719: Opening ipv4 listen socket on port 1883.
+1733547719: Opening ipv6 listen socket on port 1883.
+1733547719: Opening websockets listen socket on port 9001.
+1733547719: mosquitto version 2.0.20 running
+1733547770: New connection from 192.168.65.1:49283 on port 1883.
+1733547770: New client connected from 192.168.65.1:49283 as esp32-2c542fa7dbcc (p2, c1, k15).
+1733547869: New connection from 192.168.65.1:60315 on port 1883.
+1733547869: Client esp32-2c542fa7dbcc already connected, closing old connection.
+1733547869: New client connected from 192.168.65.1:60315 as esp32-2c542fa7dbcc (p2, c1, k15).
+1733548115: Client esp32-2c542fa7dbcc has exceeded timeout, disconnecting.
+1733550289: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733552353: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733554237: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733556038: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733557312: New connection from 192.168.65.1:20513 on port 1883.
+1733557312: New client connected from 192.168.65.1:20513 as esp32-2c542fa7dbcc (p2, c1, k15).
+1733557839: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733558150: mosquitto version 2.0.20 terminating
+1733558150: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733558160: mosquitto version 2.0.20 starting
+1733558160: Config loaded from /mosquitto/config/mosquitto.conf.
+1733558160: Opening ipv4 listen socket on port 1883.
+1733558160: Opening ipv6 listen socket on port 1883.
+1733558160: Opening websockets listen socket on port 9001.
+1733558160: mosquitto version 2.0.20 running
+1733558170: New connection from 192.168.65.1:39302 on port 1883.
+1733558170: New client connected from 192.168.65.1:39302 as 123 (p2, c1, k60).
+1733559124: New connection from 192.168.65.1:50625 on port 1883.
+1733559124: New client connected from 192.168.65.1:50625 as auto-C7AE84AC-CFC3-2E1F-5242-F0B52E31F4BA (p2, c1, k60).
+1733559215: Client auto-C7AE84AC-CFC3-2E1F-5242-F0B52E31F4BA closed its connection.
+1733559219: New connection from 192.168.65.1:39533 on port 1883.
+1733559219: New client connected from 192.168.65.1:39533 as auto-292F511A-2C8F-5D29-3194-CEC0323B3DAE (p2, c1, k60).

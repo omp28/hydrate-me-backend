@@ -3,3 +3,8 @@ VALUES ('Om Patel', 'SENSOR123');
 
 psql -h localhost -p 5432 -U myuser -d mydatabase
 
+export PYTHONPATH=/Users/ompatel/code/hydrate-me
+python app/main.py
+
+
+aakash user table: psql -U myuser -d mydb -p 5432

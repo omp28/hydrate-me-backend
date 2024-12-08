@@ -49,19 +49,41 @@ class UserService:
         except Exception as e:
             raise ValueError(f"Error fetching sensor data: {e}")
 
+    # def get_todays_total_water_intake(self):
+    #     """
+    #     Get today's total water intake
+    #     """
+    #     total_water_consumed_today = 0.0
+
+    #     try:
+    #         result = self.__repository.get_today_water_intake(self.iot_device_ID)
+    #         for entry in result:
+    #             total_water_consumed_today += entry[1]
+    #         return round(total_water_consumed_today,2)
+    #     except Exception as e:
+    #         raise ValueError(f"Error fetching today's water intake: {e}")
+
     def get_todays_total_water_intake(self):
         """
-        Get today's total water intake
+        Get today's total water intake by calculating the sum of differences between consecutive entries.
         """
         total_water_consumed_today = 0.0
 
         try:
             result = self.__repository.get_today_water_intake(self.iot_device_ID)
-            for entry in result:
-                total_water_consumed_today += entry[1]
-            return round(total_water_consumed_today,2)
+        
+        # Calculate the sum of differences between consecutive values
+            for i in range(1, len(result)):
+                difference = result[i][1] - result[i - 1][1]
+                # total_water_consumed_today += max(0, difference)  # Only add positive differences
+                if difference < 0:  # Only add negative differences
+                    total_water_consumed_today += abs(difference)
+
+            return round(total_water_consumed_today, 2)
+
         except Exception as e:
             raise ValueError(f"Error fetching today's water intake: {e}")
+
 
     def set_daily_goal(self, new_daily_goal: int):
         """

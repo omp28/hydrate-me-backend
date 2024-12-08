@@ -233,7 +233,7 @@ void weightTask(void *pvParameters)
     // Check if bottle is picked or placed
     if (current_weight != -1 && abs(last_weight - current_weight) > MIN_WATER_LEVEL_DIFFERENCE)
     {
-      if (abs(current_weight) < 30.0)
+      if (abs(current_weight) < 100.0)
       { // When bottle picked up
         // Lock the mutex before writing to the shared variable
         if (xSemaphoreTake(xMutex, portMAX_DELAY) == pdTRUE)

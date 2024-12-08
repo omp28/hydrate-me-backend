@@ -10,7 +10,7 @@
 
 // Pin and LED settings
 #define LED_PIN 26  // Pin connected to the WS2812B data line (GPIO 18)
-#define NUM_LEDS 17 // Number of LEDs in the strip or ring
+#define NUM_LEDS 19 // Number of LEDs in the strip or ring
 #define BRIGHTNESS 128
 
 int counter = 0;  // step function (spinner)

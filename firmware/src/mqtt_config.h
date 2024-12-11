@@ -3,7 +3,7 @@
 #define MQTT_CONFIG_H
 
 // MQTT client config
-const char *MQTT_BROKER = "192.168.139.120";
+const char *MQTT_BROKER = "192.168.0.102";
 const int MQTT_PORT = 1883;
 const char *TOPIC_WEIGHT_CHANGE = "/weight_change";
 const char *TOPIC_LED_MODE = "/led_mode";

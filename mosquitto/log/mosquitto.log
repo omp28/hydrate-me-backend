@@ -333,3 +333,259 @@
 1733642437: Client 123 closed its connection.
 1733642439: New connection from 192.168.65.1:21249 on port 1883.
 1733642439: New client connected from 192.168.65.1:21249 as 123 (p2, c1, k60).
+1733642832: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733644146: Client esp32-2c542fa7dbcc has exceeded timeout, disconnecting.
+1733645338: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733645338: Client 123 has exceeded timeout, disconnecting.
+1733645339: New connection from 192.168.65.1:49445 on port 1883.
+1733645339: New client connected from 192.168.65.1:49445 as 123 (p2, c1, k60).
+1733650318: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733650318: Client 123 has exceeded timeout, disconnecting.
+1733650320: New connection from 192.168.65.1:49532 on port 1883.
+1733650320: New client connected from 192.168.65.1:49532 as 123 (p2, c1, k60).
+1733654963: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733654963: Client 123 has exceeded timeout, disconnecting.
+1733654964: New connection from 192.168.65.1:33177 on port 1883.
+1733654964: New client connected from 192.168.65.1:33177 as 123 (p2, c1, k60).
+1733656902: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733656902: Client 123 has exceeded timeout, disconnecting.
+1733656903: New connection from 192.168.65.1:43764 on port 1883.
+1733656903: New client connected from 192.168.65.1:43764 as 123 (p2, c1, k60).
+1733657841: Client 123 has exceeded timeout, disconnecting.
+1733657843: New connection from 192.168.65.1:51732 on port 1883.
+1733657843: New client connected from 192.168.65.1:51732 as 123 (p2, c1, k60).
+1733661953: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733661953: Client 123 has exceeded timeout, disconnecting.
+1733661954: New connection from 192.168.65.1:63158 on port 1883.
+1733661954: New client connected from 192.168.65.1:63158 as 123 (p2, c1, k60).
+1733663911: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733663911: Client 123 has exceeded timeout, disconnecting.
+1733663912: New connection from 192.168.65.1:63910 on port 1883.
+1733663912: New client connected from 192.168.65.1:63910 as 123 (p2, c1, k60).
+1733664097: Client 123 has exceeded timeout, disconnecting.
+1733664098: New connection from 192.168.65.1:42529 on port 1883.
+1733664098: New client connected from 192.168.65.1:42529 as 123 (p2, c1, k60).
+1733665756: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733665756: Client 123 has exceeded timeout, disconnecting.
+1733665757: New connection from 192.168.65.1:21482 on port 1883.
+1733665757: New client connected from 192.168.65.1:21482 as 123 (p2, c1, k60).
+1733665920: Client 123 has exceeded timeout, disconnecting.
+1733665921: New connection from 192.168.65.1:50646 on port 1883.
+1733665921: New client connected from 192.168.65.1:50646 as 123 (p2, c1, k60).
+1733667001: Client 123 has exceeded timeout, disconnecting.
+1733667002: New connection from 192.168.65.1:18615 on port 1883.
+1733667002: New client connected from 192.168.65.1:18615 as 123 (p2, c1, k60).
+1733667378: Client 123 has exceeded timeout, disconnecting.
+1733667379: New connection from 192.168.65.1:30372 on port 1883.
+1733667379: New client connected from 192.168.65.1:30372 as 123 (p2, c1, k60).
+1733668333: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733668333: Client 123 has exceeded timeout, disconnecting.
+1733668334: New connection from 192.168.65.1:58662 on port 1883.
+1733668334: New client connected from 192.168.65.1:58662 as 123 (p2, c1, k60).
+1733668444: Client 123 has exceeded timeout, disconnecting.
+1733668445: New connection from 192.168.65.1:33066 on port 1883.
+1733668445: New client connected from 192.168.65.1:33066 as 123 (p2, c1, k60).
+1733669764: Client 123 has exceeded timeout, disconnecting.
+1733669765: New connection from 192.168.65.1:63492 on port 1883.
+1733669765: New client connected from 192.168.65.1:63492 as 123 (p2, c1, k60).
+1733670718: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733670718: Client 123 has exceeded timeout, disconnecting.
+1733670720: New connection from 192.168.65.1:51757 on port 1883.
+1733670720: New client connected from 192.168.65.1:51757 as 123 (p2, c1, k60).
+1733673542: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733673542: Client 123 has exceeded timeout, disconnecting.
+1733673543: New connection from 192.168.65.1:26426 on port 1883.
+1733673543: New client connected from 192.168.65.1:26426 as 123 (p2, c1, k60).
+1733673768: Client 123 has exceeded timeout, disconnecting.
+1733673769: New connection from 192.168.65.1:37380 on port 1883.
+1733673769: New client connected from 192.168.65.1:37380 as 123 (p2, c1, k60).
+1733675343: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733676618: Client 123 closed its connection.
+1733676624: New connection from 192.168.65.1:29469 on port 1883.
+1733676624: New client connected from 192.168.65.1:29469 as 123 (p2, c1, k60).
+1733677144: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733678945: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733680394: Client 123 has exceeded timeout, disconnecting.
+1733680395: New connection from 192.168.65.1:55868 on port 1883.
+1733680395: New client connected from 192.168.65.1:55868 as 123 (p2, c1, k60).
+1733680660: Client 123 has exceeded timeout, disconnecting.
+1733680662: New connection from 192.168.65.1:18175 on port 1883.
+1733680662: New client connected from 192.168.65.1:18175 as 123 (p2, c1, k60).
+1733681615: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733681615: Client 123 has exceeded timeout, disconnecting.
+1733681616: New connection from 192.168.65.1:47009 on port 1883.
+1733681616: New client connected from 192.168.65.1:47009 as 123 (p2, c1, k60).
+1733683179: Client 123 has exceeded timeout, disconnecting.
+1733683180: New connection from 192.168.65.1:24346 on port 1883.
+1733683180: New client connected from 192.168.65.1:24346 as 123 (p2, c1, k60).
+1733684164: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733684164: Client 123 has exceeded timeout, disconnecting.
+1733684165: New connection from 192.168.65.1:43297 on port 1883.
+1733684165: New client connected from 192.168.65.1:43297 as 123 (p2, c1, k60).
+1733685149: Client 123 has exceeded timeout, disconnecting.
+1733685150: New connection from 192.168.65.1:31931 on port 1883.
+1733685150: New client connected from 192.168.65.1:31931 as 123 (p2, c1, k60).
+1733686735: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733686735: Client 123 has exceeded timeout, disconnecting.
+1733686736: New connection from 192.168.65.1:28783 on port 1883.
+1733686736: New client connected from 192.168.65.1:28783 as 123 (p2, c1, k60).
+1733687754: Client 123 has exceeded timeout, disconnecting.
+1733687755: New connection from 192.168.65.1:50478 on port 1883.
+1733687755: New client connected from 192.168.65.1:50478 as 123 (p2, c1, k60).
+1733689408: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733689408: Client 123 has exceeded timeout, disconnecting.
+1733689409: New connection from 192.168.65.1:49176 on port 1883.
+1733689409: New client connected from 192.168.65.1:49176 as 123 (p2, c1, k60).
+1733690381: Client 123 has exceeded timeout, disconnecting.
+1733690382: New connection from 192.168.65.1:65010 on port 1883.
+1733690382: New client connected from 192.168.65.1:65010 as 123 (p2, c1, k60).
+1733691365: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733691365: Client 123 has exceeded timeout, disconnecting.
+1733691366: New connection from 192.168.65.1:42644 on port 1883.
+1733691366: New client connected from 192.168.65.1:42644 as 123 (p2, c1, k60).
+1733692352: Client 123 has exceeded timeout, disconnecting.
+1733692353: New connection from 192.168.65.1:20154 on port 1883.
+1733692353: New client connected from 192.168.65.1:20154 as 123 (p2, c1, k60).
+1733693340: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733693340: Client 123 has exceeded timeout, disconnecting.
+1733693341: New connection from 192.168.65.1:50749 on port 1883.
+1733693341: New client connected from 192.168.65.1:50749 as 123 (p2, c1, k60).
+1733694990: Client 123 has exceeded timeout, disconnecting.
+1733694991: New connection from 192.168.65.1:34048 on port 1883.
+1733694991: New client connected from 192.168.65.1:34048 as 123 (p2, c1, k60).
+1733695141: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733696651: Client 123 has exceeded timeout, disconnecting.
+1733696652: New connection from 192.168.65.1:24026 on port 1883.
+1733696652: New client connected from 192.168.65.1:24026 as 123 (p2, c1, k60).
+1733696942: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733697705: Client 123 has exceeded timeout, disconnecting.
+1733697706: New connection from 192.168.65.1:28917 on port 1883.
+1733697706: New client connected from 192.168.65.1:28917 as 123 (p2, c1, k60).
+1733698721: Client 123 has exceeded timeout, disconnecting.
+1733698722: New connection from 192.168.65.1:25998 on port 1883.
+1733698722: New client connected from 192.168.65.1:25998 as 123 (p2, c1, k60).
+1733698743: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733699737: Client 123 has exceeded timeout, disconnecting.
+1733699738: New connection from 192.168.65.1:35259 on port 1883.
+1733699738: New client connected from 192.168.65.1:35259 as 123 (p2, c1, k60).
+1733701239: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733701239: Client 123 has exceeded timeout, disconnecting.
+1733701240: New connection from 192.168.65.1:50533 on port 1883.
+1733701240: New client connected from 192.168.65.1:50533 as 123 (p2, c1, k60).
+1733702108: Client 123 has exceeded timeout, disconnecting.
+1733702109: New connection from 192.168.65.1:49142 on port 1883.
+1733702109: New client connected from 192.168.65.1:49142 as 123 (p2, c1, k60).
+1733703063: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733703063: Client 123 has exceeded timeout, disconnecting.
+1733703064: New connection from 192.168.65.1:41804 on port 1883.
+1733703064: New client connected from 192.168.65.1:41804 as 123 (p2, c1, k60).
+1733704767: Client 123 has exceeded timeout, disconnecting.
+1733704768: New connection from 192.168.65.1:32612 on port 1883.
+1733704768: New client connected from 192.168.65.1:32612 as 123 (p2, c1, k60).
+1733704864: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733705068: Client 123 has exceeded timeout, disconnecting.
+1733705069: New connection from 192.168.65.1:55994 on port 1883.
+1733705069: New client connected from 192.168.65.1:55994 as 123 (p2, c1, k60).
+1733706144: Client 123 has exceeded timeout, disconnecting.
+1733706145: New connection from 192.168.65.1:43578 on port 1883.
+1733706145: New client connected from 192.168.65.1:43578 as 123 (p2, c1, k60).
+1733708141: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733708141: Client 123 has exceeded timeout, disconnecting.
+1733708142: New connection from 192.168.65.1:51289 on port 1883.
+1733708142: New client connected from 192.168.65.1:51289 as 123 (p2, c1, k60).
+1733709620: Client 123 has exceeded timeout, disconnecting.
+1733709621: New connection from 192.168.65.1:62054 on port 1883.
+1733709621: New client connected from 192.168.65.1:62054 as 123 (p2, c1, k60).
+1733710675: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733710675: Client 123 has exceeded timeout, disconnecting.
+1733710676: New connection from 192.168.65.1:31741 on port 1883.
+1733710676: New client connected from 192.168.65.1:31741 as 123 (p2, c1, k60).
+1733712345: Client 123 has exceeded timeout, disconnecting.
+1733712346: New connection from 192.168.65.1:17283 on port 1883.
+1733712346: New client connected from 192.168.65.1:17283 as 123 (p2, c1, k60).
+1733712476: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733714234: Client 123 has exceeded timeout, disconnecting.
+1733714235: New connection from 192.168.65.1:23351 on port 1883.
+1733714235: New client connected from 192.168.65.1:23351 as 123 (p2, c1, k60).
+1733715191: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733715191: Client 123 has exceeded timeout, disconnecting.
+1733715192: New connection from 192.168.65.1:51890 on port 1883.
+1733715192: New client connected from 192.168.65.1:51890 as 123 (p2, c1, k60).
+1733716935: Client 123 has exceeded timeout, disconnecting.
+1733716936: New connection from 192.168.65.1:39034 on port 1883.
+1733716936: New client connected from 192.168.65.1:39034 as 123 (p2, c1, k60).
+1733716992: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733717935: Client 123 has exceeded timeout, disconnecting.
+1733717936: New connection from 192.168.65.1:45260 on port 1883.
+1733717936: New client connected from 192.168.65.1:45260 as 123 (p2, c1, k60).
+1733719654: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733719654: Client 123 has exceeded timeout, disconnecting.
+1733719655: New connection from 192.168.65.1:32197 on port 1883.
+1733719655: New client connected from 192.168.65.1:32197 as 123 (p2, c1, k60).
+1733721427: Client 123 has exceeded timeout, disconnecting.
+1733721428: New connection from 192.168.65.1:24594 on port 1883.
+1733721428: New client connected from 192.168.65.1:24594 as 123 (p2, c1, k60).
+1733721455: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733723318: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733723318: Client 123 has exceeded timeout, disconnecting.
+1733723319: New connection from 192.168.65.1:53034 on port 1883.
+1733723319: New client connected from 192.168.65.1:53034 as 123 (p2, c1, k60).
+1733723763: Client 123 has exceeded timeout, disconnecting.
+1733723764: New connection from 192.168.65.1:33222 on port 1883.
+1733723764: New client connected from 192.168.65.1:33222 as 123 (p2, c1, k60).
+1733725441: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733725441: Client 123 has exceeded timeout, disconnecting.
+1733725442: New connection from 192.168.65.1:44838 on port 1883.
+1733725442: New client connected from 192.168.65.1:44838 as 123 (p2, c1, k60).
+1733726978: Client 123 has exceeded timeout, disconnecting.
+1733726979: New connection from 192.168.65.1:63674 on port 1883.
+1733726979: New client connected from 192.168.65.1:63674 as 123 (p2, c1, k60).
+1733728713: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733728713: Client 123 has exceeded timeout, disconnecting.
+1733728714: New connection from 192.168.65.1:49164 on port 1883.
+1733728714: New client connected from 192.168.65.1:49164 as 123 (p2, c1, k60).
+1733729611: Client 123 has exceeded timeout, disconnecting.
+1733729612: New connection from 192.168.65.1:24797 on port 1883.
+1733729612: New client connected from 192.168.65.1:24797 as 123 (p2, c1, k60).
+1733730646: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733730646: Client 123 has exceeded timeout, disconnecting.
+1733730647: New connection from 192.168.65.1:43078 on port 1883.
+1733730647: New client connected from 192.168.65.1:43078 as 123 (p2, c1, k60).
+1733731110: Client 123 has exceeded timeout, disconnecting.
+1733731111: New connection from 192.168.65.1:21695 on port 1883.
+1733731111: New client connected from 192.168.65.1:21695 as 123 (p2, c1, k60).
+1733732256: Client 123 has exceeded timeout, disconnecting.
+1733732257: New connection from 192.168.65.1:53642 on port 1883.
+1733732257: New client connected from 192.168.65.1:53642 as 123 (p2, c1, k60).
+1733732274: mosquitto version 2.0.20 terminating
+1733732274: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733908740: mosquitto version 2.0.20 starting
+1733908740: Config loaded from /mosquitto/config/mosquitto.conf.
+1733908740: Opening ipv4 listen socket on port 1883.
+1733908740: Opening ipv6 listen socket on port 1883.
+1733908740: Opening websockets listen socket on port 9001.
+1733908740: mosquitto version 2.0.20 running
+1733908756: New connection from 192.168.65.1:59594 on port 1883.
+1733908756: New client connected from 192.168.65.1:59594 as 123 (p2, c1, k60).
+1733908792: New connection from 192.168.65.1:33334 on port 1883.
+1733908792: New client connected from 192.168.65.1:33334 as esp32-2c542fa7dbcc (p2, c1, k15).
+1733909038: Client 123 closed its connection.
+1733909045: New connection from 192.168.65.1:22922 on port 1883.
+1733909045: New client connected from 192.168.65.1:22922 as 123 (p2, c1, k60).
+1733910541: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733912342: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733914143: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733915944: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733917745: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733919546: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733921347: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733923148: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733924949: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733926750: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733928551: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733930352: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733932153: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733933954: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733935755: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733937556: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1733939357: Saving in-memory database to /mosquitto/data//mosquitto.db.
